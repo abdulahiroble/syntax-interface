@@ -1,0 +1,3 @@
+interface DisplayInterface {
+    void DisplayNice();
+}
